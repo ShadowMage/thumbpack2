@@ -1,0 +1,33 @@
+#Speed-up casting resource regeneration, regardless of player's food saturation
+FastRegenManaIgnoresSaturation = true
+#Eldrin Matrices no more diminish when placed more than 1
+NonDiminishingEldrinMatrix = true
+#Eldrin Matrices will receive multiplier from Eldrin Wellsprings
+EmpoweredEldrinMatrix = true
+#Configurable construct's milking cooldown (in minutes);
+#set to values < 0 to disable this feature;
+#the real cooldown will be a random value between 1-2 times of this set value
+#Range: 4.9E-324 ~ 1.7976931348623157E308
+ConstructMilkingCooldown = 3.0
+#Minimum strength for natural random wellsprings
+#Range: 0.0 ~ 1.7976931348623157E308
+NaturalWellspringMinStrength = 5.0
+#Maximum strength for natural random wellsprings
+#Range: 0.0 ~ 1.7976931348623157E308
+NaturalWellspringMaxStrength = 25.0
+
+[Commands]
+	#Whether this command is available to normal players or OPs
+	#Allowed Values: OFF, OP_ONLY, ON
+	EnablesLocateWellspringCommand = "OP_ONLY"
+
+[MagiChem]
+	#Unlocks the limit that a player can only have 1 orrery
+	UnlimitedOrrery = true
+	#Constructs with advanced transport ability moves materia shlorps as fast as max-powered labyrinth navigators
+	InstantConstructShlorps = true
+	#Displays each admixture's translated formula and overall essentia value
+	ShowReadableAdmixtureFormula = true
+	#Displays distillation contents for all items supported
+	ShowDistillationResults = false
+
