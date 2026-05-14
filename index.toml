@@ -104,6 +104,11 @@ hash = "8a700d602de5bde4557c97a10fb50a9ab7d215313a9b6dadf89283a0ff3c32aa"
 metafile = true
 
 [[files]]
+file = "mods/bellsandwhistles.pw.toml"
+hash = "585a3071c68587c3c041832210a58e74e7701162dbc360d47956655ca1a6438e"
+metafile = true
+
+[[files]]
 file = "mods/better-archeology.pw.toml"
 hash = "2adb8c4c9a368dac1980d99180bec4ff1ec51d8c01d73093bcc2610e95803cd9"
 metafile = true
@@ -179,6 +184,11 @@ hash = "f56c370b32425962d0fe4a46b16a2e62fc50dc91ab415cd6ff1ae9630bddee70"
 metafile = true
 
 [[files]]
+file = "mods/copycats.pw.toml"
+hash = "4101243ecfad34970b81cf6c99f458b67fe848d11870112bc9bab3b16af985eb"
+metafile = true
+
+[[files]]
 file = "mods/corgilib.pw.toml"
 hash = "7b1dd921e76b1e2b7b0b0262d423c8fa5202b8ee709c38ffab438ddd4252949c"
 metafile = true
@@ -186,6 +196,11 @@ metafile = true
 [[files]]
 file = "mods/cosmetic-armor-reworked.pw.toml"
 hash = "e1483034960d3ddd4d4485c0e5f10430b71e766e94c13c47130ee40950f4e985"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+hash = "a432e8775c2bdec53fca88146917905c5c82273e1b66af48b5ace0809433c8fe"
 metafile = true
 
 [[files]]
@@ -209,8 +224,23 @@ hash = "b7325f1ad328f8cdc1cbd578570ce5244874fdd529eda5f20568df44dec5a772"
 metafile = true
 
 [[files]]
+file = "mods/deeperdarker.pw.toml"
+hash = "e50740a50bdeef70e78fc991fbc8eee9dbb4bacd11f5e7cbf10f4c46cb5fd0aa"
+metafile = true
+
+[[files]]
+file = "mods/dont-make-me-see-red.pw.toml"
+hash = "ee0ae68f90cbbdf68afccb0ddc576d4fb7cc57813723f68ae38f86f7ca966d7f"
+metafile = true
+
+[[files]]
 file = "mods/double-doors.pw.toml"
 hash = "b207d018bd9a51630c58b82d5f2e4b75847254b7dedfdcf0dbaf25278f3f107a"
+metafile = true
+
+[[files]]
+file = "mods/dungeon-crawl.pw.toml"
+hash = "3a4845166040ce2be2967b33371140b809b8d49889ba99f91da78e0228cd6f8e"
 metafile = true
 
 [[files]]
@@ -221,6 +251,11 @@ metafile = true
 [[files]]
 file = "mods/endergetic.pw.toml"
 hash = "d6d6f896494ce5a9c02fb11f8c929124d19308652f602bf530164cf5d204e6de"
+metafile = true
+
+[[files]]
+file = "mods/exposure.pw.toml"
+hash = "2b7e34feead35203c6637b7c8afb49cb823ff6ddade568b131ca07c35ad02845"
 metafile = true
 
 [[files]]
@@ -236,6 +271,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "21ba13b128e773c2b603af4f9142975a6059affb5b2241c9db69943c3e7aabf6"
+metafile = true
+
+[[files]]
+file = "mods/farming-for-blockheads.pw.toml"
+hash = "7526f16ab0d3a3d39e10620a14e17937ae4bdcfcc5c55f3887f04b6bc6273cee"
 metafile = true
 
 [[files]]
@@ -261,6 +301,21 @@ metafile = true
 [[files]]
 file = "mods/ftb-backups-2.pw.toml"
 hash = "b3693e7a5647d4e28fc30ad3e85193c668a98a410dc3f425f19561cfea68957f"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+hash = "9db3089b9504be94818135f452daa1f2abbcb478d31abba2b19833902ea5daa5"
+metafile = true
+
+[[files]]
+file = "mods/ftb-teams-forge.pw.toml"
+hash = "efda76423b21f9bfab4ad8d0411f0b06a199ab7e3e12ca16dc0586c1828b8f07"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "82c1bd758e0562f94f461b297930876b64c2e99feea47b3815efb3da02e0a059"
 metafile = true
 
 [[files]]
@@ -294,6 +349,11 @@ hash = "fbb371c2bb573d6d84600f10937f535b7f19f7df6e536f25b7b4e46471c32904"
 metafile = true
 
 [[files]]
+file = "mods/hypertubes.pw.toml"
+hash = "306d0b88f041285cdadabbc5b1710b4ab527afbe0c2d2370209863ab960c8d2f"
+metafile = true
+
+[[files]]
 file = "mods/ice-and-fire-dragons.pw.toml"
 hash = "757e02e33252ae35ee2307996eef59f8b42d218db6ebb30164a230201312b7e6"
 metafile = true
@@ -311,6 +371,11 @@ metafile = true
 [[files]]
 file = "mods/immersive-engineering.pw.toml"
 hash = "6439c6f409308c4a89a12708b54cef41aa5382dc78e6f352b3e8005e96a21a8e"
+metafile = true
+
+[[files]]
+file = "mods/immersive-gateways.pw.toml"
+hash = "3cadf35b70bd152263a4b5ee01f91ea43db8ca8567ebc09bb855b3241f21e6a2"
 metafile = true
 
 [[files]]
@@ -359,6 +424,11 @@ hash = "664a573384edf644e9b788c7c29fe32593917ac8283bb794cc46b471a0a6504a"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "1678327ac50408273c1828b631929128d3fdfd54cda7b2e823ce9352495a68ff"
+metafile = true
+
+[[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "de05b89fa3dcbba78114f1616a1852310873858de33671ba0ec5127c5dd88135"
 metafile = true
@@ -381,6 +451,11 @@ metafile = true
 [[files]]
 file = "mods/mantle.pw.toml"
 hash = "6164ce697ea02e49911afd5666dcb1d5f83ed0fff9b290def0a7a7c440c1c39b"
+metafile = true
+
+[[files]]
+file = "mods/mekanism-generators.pw.toml"
+hash = "a76a1f1d2139ebe5c31c628ed4bb01f3795cfae931dda4093047260507bbfd43"
 metafile = true
 
 [[files]]
@@ -446,6 +521,11 @@ metafile = true
 [[files]]
 file = "mods/placebo.pw.toml"
 hash = "045d582e2c534c5bb96d7336b4ae2cd12692c6de29b19ae5f1dbfd8759c03b03"
+metafile = true
+
+[[files]]
+file = "mods/platform.pw.toml"
+hash = "a1f543c4d45005e158ee4bf30e4d68992f1ccef454f8335316daf305d40957af"
 metafile = true
 
 [[files]]
@@ -554,6 +634,11 @@ hash = "74ea4dfd995e75e83d0e0ffc80ffa97c80f56563e1affaf65837c916f38407fa"
 metafile = true
 
 [[files]]
+file = "mods/spice-of-life-carrot-edition.pw.toml"
+hash = "08faa8239705d280e41d353888bf717906fe71b1d5b9278bac9f5cd87b07efb3"
+metafile = true
+
+[[files]]
 file = "mods/stoneworks.pw.toml"
 hash = "7262f4ef1f6a42e2348537571f2adf9453381ead2a7cc2bff7384b8bbe45cc84"
 metafile = true
@@ -561,6 +646,16 @@ metafile = true
 [[files]]
 file = "mods/storage-drawers.pw.toml"
 hash = "371b68e257eaca322ca4e95f4aa8d95441d84110b69243dda818f743a0111ba5"
+metafile = true
+
+[[files]]
+file = "mods/structory.pw.toml"
+hash = "17f162241760e4a26023aff789daa5455a8657e8e68d3bafe6aa19a7b46dd4f3"
+metafile = true
+
+[[files]]
+file = "mods/subtle-effects.pw.toml"
+hash = "d21d512e29de5776df8b79e3f9678f68149b6106690eea9ae6ef32526965eb8d"
 metafile = true
 
 [[files]]
@@ -596,6 +691,11 @@ metafile = true
 [[files]]
 file = "mods/twigs.pw.toml"
 hash = "75ac47ef3a388aa5416f86415f79d262f68f5c8195c7a1a89f081b348a64c81f"
+metafile = true
+
+[[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "a48cd3a76a7aade0e6fcc7db8651d770112b3c9f6b7f9d00c62430eec9682001"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Dont Make Me See Red"
+filename = "dontmakemeseered-1.20.1-1.0.0-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dca791b43ab5c147bca8a40d257220bc3b90b2f4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6888244
+project-id = 1327494
