@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/forge-client.toml"
-hash = "1f776cff255a62036f2f721c1b516a20a49fd7fd11de442e36a19fe4ecd4f3a0"
-
-[[files]]
-file = "config/mnaoverpowered-common.toml"
-hash = "b58ec2ece0bdf0086e12e72cbac56fecbb6d292ced25ebf1119524af15285489"
-
-[[files]]
 file = "journeymap/config/5.10/journeymap.core.config"
 hash = "699eb3efa5c858fdd0574b9f8001b8f768da336d915e189b40a6f1d270c84bac"
 
