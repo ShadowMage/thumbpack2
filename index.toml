@@ -270,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight.pw.toml"
-hash = "21ba13b128e773c2b603af4f9142975a6059affb5b2241c9db69943c3e7aabf6"
+hash = "d7139e5db4b5a9b5d80330854bb23ce2cd197009b6d8e3636aa017434066b830"
 metafile = true
 
 [[files]]
@@ -365,7 +365,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-armors.pw.toml"
-hash = "a7fd74d5d5680775d2d9b83d8a4924c0244169ffb0961dadfb901a362eb1a935"
+hash = "7e5235d46e78187f6f994c17e4b68ba8002676e257f45287b989e4128927aa92"
 metafile = true
 
 [[files]]
@@ -470,7 +470,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "fcb27d111bee02677bd43a57680fda0b592487a492174dc3b07833cf5b2180b2"
+hash = "16451920c0072df521f94325819ffa0cd7bc1e5fd1dcf7ddb153aac07a3225c6"
 metafile = true
 
 [[files]]
@@ -585,7 +585,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "7e91d696b14e06ae9ac40bf457680b92f0ad2c28582ab539634d3d5e77f89461"
+hash = "58650be97623a6bf442f76994776ebd9d9dd46bb264ee64c2cf8ae85457cd40f"
 metafile = true
 
 [[files]]
@@ -685,7 +685,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanillabackport.pw.toml"
-hash = "a48cd3a76a7aade0e6fcc7db8651d770112b3c9f6b7f9d00c62430eec9682001"
+hash = "c43a7a29bf82d4686a6ca555cb51c7840448c0d4e95f322b0a5701d0138f408a"
 metafile = true
 
 [[files]]
