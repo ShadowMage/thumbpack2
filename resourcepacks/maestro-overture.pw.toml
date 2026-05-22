@@ -1,0 +1,13 @@
+name = "Maestro: Overture"
+filename = "Maestro-Overture.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2c160845278de3a1cc1b928fd37ca879732816ea"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7608514
+project-id = 1456190

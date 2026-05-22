@@ -169,6 +169,11 @@ hash = "58bf97ca61f74ea9a540f6e6090aef631155748c49b83a7a338b34d8dece9109"
 metafile = true
 
 [[files]]
+file = "mods/configured.pw.toml"
+hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
+metafile = true
+
+[[files]]
 file = "mods/connectivity.pw.toml"
 hash = "ddd7699a3abd3471af5313377a453fd5d9cef5317a0adcccb460a37087ba423c"
 metafile = true
@@ -294,6 +299,11 @@ hash = "1bdf260b93529024685ade5d272bfeca5703b4a9fdb50bb86917e94834c60d8a"
 metafile = true
 
 [[files]]
+file = "mods/fragmentum.pw.toml"
+hash = "b39121a323ad12d6fd4543e53b361386d73d825c4df60ca8f91a8ff1803e15e8"
+metafile = true
+
+[[files]]
 file = "mods/framework.pw.toml"
 hash = "9e2175476f720e0b2d21b28e91873cecf5555648e2137310e1b7cf98f6b98ab8"
 metafile = true
@@ -311,6 +321,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-teams-forge.pw.toml"
 hash = "efda76423b21f9bfab4ad8d0411f0b06a199ab7e3e12ca16dc0586c1828b8f07"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "13306fd8dc27c0f5afb60874e6a12fc1b2252ac02e8a89ccc2f046f4898627ff"
 metafile = true
 
 [[files]]
@@ -449,6 +464,11 @@ hash = "1cb3724c7ebb7f2aa92f0e5a0e422af6dfe74466135de0ca6bc282c8628bbd67"
 metafile = true
 
 [[files]]
+file = "mods/maestro.pw.toml"
+hash = "a3bf9317981c1e85b009ec54b8a12f2351aa3fd7aa0562bcfe79329ab0f377dc"
+metafile = true
+
+[[files]]
 file = "mods/mantle.pw.toml"
 hash = "6164ce697ea02e49911afd5666dcb1d5f83ed0fff9b290def0a7a7c440c1c39b"
 metafile = true
@@ -554,6 +574,11 @@ hash = "e7b0b4347c718c5b6ba50334d950a7f004348bfeb0dfd2b747c1f35d3145c966"
 metafile = true
 
 [[files]]
+file = "mods/rechiseled.pw.toml"
+hash = "e1fe69f03ebaaa29f48a61637613754bc0cacdd857c482eba6c7484717ce529b"
+metafile = true
+
+[[files]]
 file = "mods/reds-more-structures.pw.toml"
 hash = "27ab5fcaaa1822897794ad7f44e1e5ea1b297e0e4a6dc73038347f53ef268f5b"
 metafile = true
@@ -601,6 +626,11 @@ metafile = true
 [[files]]
 file = "mods/simplehats.pw.toml"
 hash = "f1d0143e260bc43f592ccf681ab487bfa9579198f426c54c2b0013a2dfdfb449"
+metafile = true
+
+[[files]]
+file = "mods/small-ships.pw.toml"
+hash = "a2641c9187ec8485df45b2fb25c901f835da50ffe4d9601e4ecc81fc9036eb55"
 metafile = true
 
 [[files]]
@@ -736,4 +766,9 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "48f6072913910cc732d977696873ae076f073fff1b0625583cd28ca3c15aaaff"
+metafile = true
+
+[[files]]
+file = "resourcepacks/maestro-overture.pw.toml"
+hash = "df2794863cbf6379e73c3fa809eb63af053cf5f4ccae473bb99533678b9733db"
 metafile = true
