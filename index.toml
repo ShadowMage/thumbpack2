@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/resourcepackoverrides.json"
+hash = "e99db49444681da1e457d0a84d7df13fe892489345b8abfcf796b49dc880a8bf"
+
+[[files]]
 file = "journeymap/config/5.10/journeymap.core.config"
 hash = "699eb3efa5c858fdd0574b9f8001b8f768da336d915e189b40a6f1d270c84bac"
 
@@ -291,6 +295,16 @@ metafile = true
 [[files]]
 file = "mods/endergetic.pw.toml"
 hash = "d6d6f896494ce5a9c02fb11f8c929124d19308652f602bf530164cf5d204e6de"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "5a8b971146de3aa8dc7e4b862a12c69e787189ca8252db119253efdcc99220fe"
+metafile = true
+
+[[files]]
+file = "mods/entity-texture-features-fabric.pw.toml"
+hash = "48d621f055c242082a47a9df3770b38000889b9e2b0e0d14c014ad1ae35968c4"
 metafile = true
 
 [[files]]
@@ -629,6 +643,11 @@ hash = "27ab5fcaaa1822897794ad7f44e1e5ea1b297e0e4a6dc73038347f53ef268f5b"
 metafile = true
 
 [[files]]
+file = "mods/resource-pack-overrides.pw.toml"
+hash = "da5f20f5a128e6a8a4fd09382986737edad311803106ca45e0a5dc4b97d2565b"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "e242387207a2538b5ccb55697174c65e549e1eb2fef9da37e1ad3734e0372b65"
 metafile = true
@@ -826,6 +845,16 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "48f6072913910cc732d977696873ae076f073fff1b0625583cd28ca3c15aaaff"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fa-player-extension.pw.toml"
+hash = "2ca0915d77d517822f91a7f3f07778cfcc181685ae6c69ba2b44ba3a2ef72cb5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "6a1556a0e4fcb411b33efafc3382b4abd9a6e671f140dc0d42e9aad2808e24f3"
 metafile = true
 
 [[files]]
