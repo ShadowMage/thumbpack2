@@ -299,12 +299,12 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "5a8b971146de3aa8dc7e4b862a12c69e787189ca8252db119253efdcc99220fe"
+hash = "ec092b17f54d5e8d15515f3f3b41565891701d01c655815509a9094dd5f32460"
 metafile = true
 
 [[files]]
 file = "mods/entity-texture-features-fabric.pw.toml"
-hash = "48d621f055c242082a47a9df3770b38000889b9e2b0e0d14c014ad1ae35968c4"
+hash = "59e35dbf05eac5f7cdbed49ea095a8187195a27ac3a7e89ef8eaa9e600404c31"
 metafile = true
 
 [[files]]
@@ -644,7 +644,7 @@ metafile = true
 
 [[files]]
 file = "mods/resource-pack-overrides.pw.toml"
-hash = "da5f20f5a128e6a8a4fd09382986737edad311803106ca45e0a5dc4b97d2565b"
+hash = "7263ae882ea3c6cd9410194b9c37f821d0b393642c50d356ebc02e4ea92c0ea1"
 metafile = true
 
 [[files]]
